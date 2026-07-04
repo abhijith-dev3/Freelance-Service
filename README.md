@@ -1,16 +1,33 @@
-# React + Vite
+##Live :https://freelance-service-sigma.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+💼 Freelance Portfolio
 
-Currently, two official plugins are available:
+A modern, high-performance portfolio website showcasing my freelance web development services. Designed to help businesses establish a strong online presence with fast, responsive, and visually appealing websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 About
 
-## React Compiler
+Hi! I'm Abhijith, a freelance frontend developer passionate about creating modern, responsive, and user-focused websites. I help startups, small businesses, and individuals turn their ideas into professional web experiences.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Whether you need a landing page, business website, portfolio, or a custom frontend application, I focus on delivering clean code, great performance, and an excellent user experience.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+🎨 Premium and modern UI
+📱 Fully responsive design
+⚡ Fast performance with Vite
+✨ Smooth animations with Framer Motion
+🧩 Reusable React components
+💼 Services section
+🛠️ Skills showcase
+📂 Project portfolio
+💬 Testimonials section
+💰 Pricing section
+❓ FAQ section
+📞 Contact form
+🌐 Social media links
+🛠️ Tech Stack
+React
+Vite
+Tailwind CSS
+JavaScript (ES6+)
+Framer Motion
+React Router DOM
